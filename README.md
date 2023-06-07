@@ -1,4 +1,6 @@
-### Hi there 👋
+![foura1201's GitHub stats](https://github-readme-stats.vercel.app/api?username=foura1201&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foura1201&layout=compact&theme=radical)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=foura0077)](https://solved.ac/foura0077) -->
 
 <!--
 **foura1201/foura1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
